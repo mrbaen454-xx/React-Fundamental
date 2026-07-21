@@ -1,0 +1,8 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gagang Tas Kerja -->
+  <path d="M15 10 V7 C15 5.34315 16.3431 4 18 4 H22 C23.6569 4 25 5.34315 25 7 V10" 
+        stroke="#1E3A8A" stroke-width="3" stroke-linecap="round"/>
+  <!-- Badan Tas Berbentuk Huruf C -->
+  <path d="M30 16 H16 C12.6863 16 10 18.6863 10 22 V26 C10 29.3137 12.6863 32 16 32 H30" 
+        stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -14,12 +14,12 @@ const { nama, nim, prodi, nilai } = mahasiswa;
 
 
 // 3.
-const hitungRataRata = (arrNilai) => {
+const hitungRataRata = (...arrNilai) => {
   const total = arrNilai.reduce((acc, curr) => acc + curr, 0);
   return total / arrNilai.length;
 };
 
-const rataRata = hitungRataRata(nilai);
+const rataRata = hitungRataRata(...nilai);
 
 
 // 4.
